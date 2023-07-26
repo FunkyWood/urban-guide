@@ -4,7 +4,6 @@
     "title": "BallisticOuroboros2",
     "description": "",
     "user": "FoxWithHats",
-    "wr": "15%",
     "media": {
       "type": "video",
       "url": "https://www.youtube.com/embed/EgxU67FMenw"
@@ -20,14 +19,41 @@
       "type": "video",
       "url": "https://www.youtube.com/embed/KlzFnMD4EvA"
     },
-    "levelId": "92655456"
+    "levelId": "91934717"
   },
   {
     "id": 3,
-    "title": "Level 3",
-    "description": "This is level 3",
-    "user": "User3",
-    "media": null,
-    "levelId": "003"
+    "title": "3step",
+    "description": "",
+    "user": "euria",
+    "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/embed/Oaiz0iLqwIE"
+    },
+    "levelId": "92655456"
+  },
+  {
+    "id": 4,
+    "title": "Impossible EVW",
+    "description": "",
+    "user": "FoxWithHats",
+    "wr": "1.22%",
+    "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/embed/I5ZXXNCqMiE"
+    },
+    "levelId": "91508481"
+  },
+  {
+    "id": 4,
+    "title": "Franken Crackletrial",
+    "description": "",
+    "user": "Craytek",
+    "wr": "16.4%",
+    "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/embed/wMZhcsjy-j0"
+    },
+    "levelId": "92633162"
   }
 ]
