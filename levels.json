@@ -1,95 +1,182 @@
 [
-  {
-    "id": 164,
-    "title": "Omega III",
-    "description": "",
-    "user": "FoxWithHats and Corvid12",
-    "wr": null,
-    "media": {
-      "type": "video",
-      "url": "https://www.youtube.com/embed/ZvyiQtEkwr4"
+    {
+        "id": 1,
+        "title": "STODIUAKTGAFBFTLSAGA",
+        "description": "",
+        "user": "euria",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "92726716"
     },
-    "levelId": "91565306"
-  },
-  {
-    "id": 154,
-    "title": "Cloudy Skies",
-    "description": "",
-    "user": "Sari",
-    "wr": null,
-    "media": {
-      "type": "image",
-      "url": "https://lh4.googleusercontent.com/h5_0pI0rfN4sUS2iTy57vLN-rAKPuUS0AKIDo6QHa_zDljqaLQKaB_ofwkzwBSrp0KEynWODDuKhhx6WDhFqJV1ghMrzS7Rx_yOjU5foZJvJ_3b4easYO1btbM3oarE2yw=w1280"
+    {
+        "id": 2,
+        "title": "Stormy Skies",
+        "description": "",
+        "user": "Sari",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "92447555"
     },
-    "levelId": "92447555"
-  },
-  {
-    "id": 1,
-    "title": "BallisticOuroboros2",
-    "description": "",
-    "user": "FoxWithHats",
-    "media": {
-      "type": "video",
-      "url": "https://www.youtube.com/embed/EgxU67FMenw"
+    {
+        "id": 3,
+        "title": "Ballsmate",
+        "description": "",
+        "user": "ByTheFunkyWood",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "92422424"
     },
-    "levelId": "N/A"
-  },
-  {
-    "id": 420,
-    "title": "M The YS",
-    "description": "",
-    "user": "Craytek",
-    "wr": "16.4%",
-    "media": {
-      "type": "image",
-      "url": "https://lh5.googleusercontent.com/cDeYCe_dRgBepGDcZUG3q9ori6bUhBAKL3ll-EWUbLf9ZHu7OXv7kdSf_0kXcwcRq6wkD3OBzCOPBICdZ5136P12IufZ-vwX1wAWB0p_o411gMcsV70Qg_sw1NWYqmgMkg=w1280"
+    {
+        "id": 4,
+        "title": "1 cps question mark",
+        "description": "",
+        "user": "FoxWithHats",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "92893961"
     },
-    "levelId": "92725252"
-  },
-  {
-    "id": 2,
-    "title": "House Of Doomsday",
-    "description": "",
-    "user": "euria",
-    "media": {
-      "type": "video",
-      "url": "https://www.youtube.com/embed/KlzFnMD4EvA"
+    {
+        "id": 5,
+        "title": "Omega III",
+        "description": "",
+        "user": "FoxWithHats and corvid12",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "91565306"
     },
-    "levelId": "91934717"
-  },
-  {
-    "id": 3,
-    "title": "3step",
-    "description": "",
-    "user": "euria",
-    "media": {
-      "type": "video",
-      "url": "https://www.youtube.com/embed/Oaiz0iLqwIE"
+    {
+        "id": 6,
+        "title": "BallisticOuroboros2",
+        "description": "",
+        "user": "FoxWithHats",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "N/A"
     },
-    "levelId": "92655456"
-  },
-  {
-    "id": 4,
-    "title": "Impossible EVW",
-    "description": "",
-    "user": "FoxWithHats",
-    "wr": "1.22%",
-    "media": {
-      "type": "video",
-      "url": "https://www.youtube.com/embed/I5ZXXNCqMiE"
+    {
+        "id": 7,
+        "title": "SSLLLife",
+        "description": "",
+        "user": "Corvid12",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "91589310"
     },
-    "levelId": "91508481"
-  },
-  {
-    "id": 4,
-    "title": "Franken Crackletrial",
-    "description": "",
-    "user": "Craytek",
-    "wr": "16.4%",
-    "media": {
-      "type": "video",
-      "url": "https://www.youtube.com/embed/wMZhcsjy-j0"
+    {
+        "id": 8,
+        "title": "M the YS",
+        "description": "",
+        "user": "craytek",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "92725252"
     },
-    "levelId": "92633162"
-  }
+    {
+        "id": 9,
+        "title": "House of Doomsday",
+        "description": "",
+        "user": "euria",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "92655456"
+    },
+    {
+        "id": 10,
+        "title": "Click once",
+        "description": "",
+        "user": "Sari",
+        "wr": "70%",
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "92298750"
+    },
+    {
+        "id": 11,
+        "title": "3step",
+        "description": "",
+        "user": "euria",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "91934717"
+    },
+    {
+        "id": 12,
+        "title": "Crusty Mutt",
+        "description": "",
+        "user": "FoxWithHats",
+        "wr": null,
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "92247428"
+    },
+    {
+        "id": 13,
+        "title": "Impossible EVW",
+        "description": "",
+        "user": "FoxWithHats",
+        "wr": "1.22%",
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "91508481"
+    },
+    {
+        "id": 14,
+        "title": "Bad level",
+        "description": "",
+        "user": "Sari and Spacepickle",
+        "wr": "9%",
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "92520055"
+    },
+    {
+        "id": 15,
+        "title": "Franken Crackletrial",
+        "description": "",
+        "user": "Craytek",
+        "wr": "16.14",
+        "media": {
+            "type": "video",
+            "url": null
+        },
+        "levelId": "92633162"
+    }
 ]
